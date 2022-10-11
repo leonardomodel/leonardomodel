@@ -4,9 +4,9 @@
 - 😄 Pronomes: Ele / Dele.
 
 <div align="center">
-  <a href="https://github.com/leonardomodel">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardomodel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFA500"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomodel&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/LeonardoModel">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeonardoModel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFA500"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoModel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
